@@ -1,7 +1,7 @@
 {
-  "name": "react-native-android-fullscreen-webview-video",
+  "name": "react-native-fullscreen-webview-video",
   "version": "1.0.4",
-  "url": "https://github.com/teamairship/react-native-android-fullscreen-webview-video",
+  "url": "https://github.com/cjardim/react-native-android-fullscreen-webview-video",
   "description": "WebView fullscreen video support for Android in React Native",
   "main": "index.js",
   "scripts": {
@@ -16,14 +16,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/teamairship/react-native-android-fullscreen-webview-video.git"
+    "url": "git+https://github.com/cjardim/react-native-android-fullscreen-webview-video.git"
   },
-  "author": "Airship",
+  "author": "cjardim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/teamairship/react-native-android-fullscreen-webview-video/issues"
+    "url": "https://github.com/cjardim/react-native-android-fullscreen-webview-video/issues"
   },
-  "homepage": "https://github.com/teamairship/react-native-android-fullscreen-webview-video#readme",
+  "homepage": "https://github.com/cjardim/react-native-android-fullscreen-webview-video#readme"
   "dependencies": {
     "react-native-webview": "^7.4.2"
   }
